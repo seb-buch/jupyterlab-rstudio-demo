@@ -1,6 +1,5 @@
 channels:
   - conda-forge
 dependencies:
-  - pdflatex
   - r-base=4.1.0
   - r-tidyverse
