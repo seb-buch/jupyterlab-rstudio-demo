@@ -1,0 +1,1 @@
+wget -q -O data/covid_testing.csv https://github.com/higgi13425/medicaldata/raw/refs/heads/master/data-raw/covid_testing_deid.csv
